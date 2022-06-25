@@ -41,7 +41,7 @@ class FileBody implements ShouldQueue
      */
     public function handle()
     {
-        //gits
+        //git
         //sleep(5);
 /*
         echo "<script>";
