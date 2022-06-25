@@ -1,0 +1,26 @@
+{
+  "dna": "0231",
+  "name": "pinata 7 13052022#19",
+  "description": "",
+  "image": "ipfs://QmbXrShAxJpHMHuVUfoq7L679vXYBGQATWLfTq4bnmu7Qd/19.png",
+  "edition": 19,
+  "date": 1652411315620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "1312",
+  "name": "nameone #79",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/79.png",
+  "edition": 79,
+  "date": 1652756144506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

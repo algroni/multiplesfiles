@@ -1,0 +1,26 @@
+{
+  "dna": "2012",
+  "name": "name#7",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ7jz2MaE4Vs71CNn7KGY46pcSJYmpD4SBNWf66opSDev/7.png",
+  "edition": 7,
+  "date": 1652420637810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

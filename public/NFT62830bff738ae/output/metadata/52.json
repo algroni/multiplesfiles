@@ -1,0 +1,26 @@
+{
+  "dna": "1100",
+  "name": "nameone #52",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/52.png",
+  "edition": 52,
+  "date": 1652755909660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

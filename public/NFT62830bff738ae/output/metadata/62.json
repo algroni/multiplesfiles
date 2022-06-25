@@ -1,0 +1,26 @@
+{
+  "dna": "0223",
+  "name": "nameone #62",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/62.png",
+  "edition": 62,
+  "date": 1652755994843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

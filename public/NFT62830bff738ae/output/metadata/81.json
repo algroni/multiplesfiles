@@ -1,0 +1,26 @@
+{
+  "dna": "2202",
+  "name": "nameone #81",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/81.png",
+  "edition": 81,
+  "date": 1652756164735,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

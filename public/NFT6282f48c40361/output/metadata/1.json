@@ -1,0 +1,26 @@
+{
+  "dna": "0002",
+  "name": "name #1",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmfZShumSsgyHKr8JEf8hn3APaRp16BmRcZPL8xMT3mxFQ/1.png",
+  "edition": 1,
+  "date": 1652749488558,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

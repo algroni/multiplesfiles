@@ -1,0 +1,26 @@
+{
+  "dna": "1021",
+  "name": "nameone #57",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/57.png",
+  "edition": 57,
+  "date": 1652755949826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "2031",
+  "name": "Collection june #3",
+  "description": "Collection June",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmYMeyw7bKdtcH6qm5FaZ6BAhSxLNt4cSMcRf2o19jHrH8/3.png",
+  "edition": 3,
+  "date": 1654639594191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

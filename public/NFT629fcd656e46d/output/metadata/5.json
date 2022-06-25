@@ -1,0 +1,26 @@
+{
+  "dna": "3030",
+  "name": "Collection june #5",
+  "description": "Collection June",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmYZcbMFnCo5J74BGkB27MqJCh2YZpgTrMRtTyE47WWiTv/5.png",
+  "edition": 5,
+  "date": 1654640042611,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

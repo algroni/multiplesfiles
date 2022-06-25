@@ -1,0 +1,26 @@
+{
+  "dna": "0131",
+  "name": "nameone #51",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/51.png",
+  "edition": 51,
+  "date": 1652755902343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

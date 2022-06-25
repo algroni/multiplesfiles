@@ -1,0 +1,26 @@
+{
+  "dna": "3100",
+  "name": "name #8",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmfZShumSsgyHKr8JEf8hn3APaRp16BmRcZPL8xMT3mxFQ/8.png",
+  "edition": 8,
+  "date": 1652749538633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

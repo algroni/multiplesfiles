@@ -1,0 +1,26 @@
+{
+  "dna": "1302",
+  "name": "pinata 6 13052022#14",
+  "description": "",
+  "image": "ipfs://etdfgdfgfg/14.png",
+  "edition": 14,
+  "date": 1652409482977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

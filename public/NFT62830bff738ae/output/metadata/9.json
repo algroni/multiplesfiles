@@ -1,0 +1,26 @@
+{
+  "dna": "2033",
+  "name": "nameone #9",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVt4TmqVsCALUgP86vyX9CZoedke6BtiaezrZEzBXPPPB/9.png",
+  "edition": 9,
+  "date": 1652755589953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

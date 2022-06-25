@@ -1,0 +1,26 @@
+{
+  "dna": "3330",
+  "name": "name #5",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdUDoWxUM3VMG94RZhwf6Rir5Txm8FLvkG5P65VAaq8C6/5.png",
+  "edition": 5,
+  "date": 1652751310186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

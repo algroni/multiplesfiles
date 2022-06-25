@@ -1,0 +1,26 @@
+{
+  "dna": "3332",
+  "name": "name2#17",
+  "description": "description 2",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVDwi84o7wWMtG4azGQRWds7cYBRHpKKf6tr1i7mShHNw/17.png",
+  "edition": 17,
+  "date": 1652421222288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

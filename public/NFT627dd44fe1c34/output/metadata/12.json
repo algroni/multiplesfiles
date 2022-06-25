@@ -1,0 +1,26 @@
+{
+  "dna": "2113",
+  "name": "pinata 9 13052022#12",
+  "description": "",
+  "image": "ipfs://QmY43UA1ybAu7FqkQAQ2k4weAKxyHtG1AGBr1y29xVx9Ji/12.png",
+  "edition": 12,
+  "date": 1652413643487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

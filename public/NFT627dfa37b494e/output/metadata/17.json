@@ -1,0 +1,26 @@
+{
+  "dna": "3220",
+  "name": "name3#17",
+  "description": "description 3",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdbdmicuynBLnKQVcbme91LqLEQV2UQtGWgm7ALz5LB8y/17.png",
+  "edition": 17,
+  "date": 1652423372406,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

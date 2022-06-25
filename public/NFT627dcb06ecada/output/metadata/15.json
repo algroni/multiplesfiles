@@ -1,0 +1,26 @@
+{
+  "dna": "0232",
+  "name": "pinata 7 13052022#15",
+  "description": "",
+  "image": "ipfs://QmbXrShAxJpHMHuVUfoq7L679vXYBGQATWLfTq4bnmu7Qd/15.png",
+  "edition": 15,
+  "date": 1652411286371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

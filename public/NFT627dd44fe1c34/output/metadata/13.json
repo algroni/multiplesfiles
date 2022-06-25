@@ -1,0 +1,26 @@
+{
+  "dna": "1331",
+  "name": "pinata 9 13052022#13",
+  "description": "",
+  "image": "ipfs://QmY43UA1ybAu7FqkQAQ2k4weAKxyHtG1AGBr1y29xVx9Ji/13.png",
+  "edition": 13,
+  "date": 1652413650853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

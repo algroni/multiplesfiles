@@ -1,0 +1,26 @@
+{
+  "dna": "1003",
+  "name": "name4#7",
+  "description": "description 4",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmU5tNDV4u66zXhVwYLD7PH894jKDzCdHEiDvcxzLYzaXb/7.png",
+  "edition": 7,
+  "date": 1652423807111,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

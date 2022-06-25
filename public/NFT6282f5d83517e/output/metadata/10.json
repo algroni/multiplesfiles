@@ -1,0 +1,26 @@
+{
+  "dna": "3210",
+  "name": "name #10",
+  "description": "desription",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ9UL8fauodAdVeRt24X6aHRVQB29afq7qH5Qai6HwTzM/10.png",
+  "edition": 10,
+  "date": 1652749884584,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "BluePin"
+    }
+  ]
+}

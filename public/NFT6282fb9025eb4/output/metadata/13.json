@@ -1,0 +1,26 @@
+{
+  "dna": "1111",
+  "name": "name #13",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdUDoWxUM3VMG94RZhwf6Rir5Txm8FLvkG5P65VAaq8C6/13.png",
+  "edition": 13,
+  "date": 1652751363999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

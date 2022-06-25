@@ -1,0 +1,26 @@
+{
+  "dna": "3333",
+  "name": "name3#16",
+  "description": "description 3",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdbdmicuynBLnKQVcbme91LqLEQV2UQtGWgm7ALz5LB8y/16.png",
+  "edition": 16,
+  "date": 1652423365413,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "0330",
+  "name": "pinata 8 13052022#15",
+  "description": "",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmeTJM1KEYkU61DqaqkR6yRVR31cgKnL6PbAtpSeKHCfX1/15.png",
+  "edition": 15,
+  "date": 1652412795683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

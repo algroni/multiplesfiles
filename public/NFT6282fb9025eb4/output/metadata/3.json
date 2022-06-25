@@ -1,0 +1,26 @@
+{
+  "dna": "1222",
+  "name": "name #3",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdUDoWxUM3VMG94RZhwf6Rir5Txm8FLvkG5P65VAaq8C6/3.png",
+  "edition": 3,
+  "date": 1652751296486,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

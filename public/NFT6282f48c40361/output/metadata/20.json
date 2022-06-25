@@ -1,0 +1,26 @@
+{
+  "dna": "3130",
+  "name": "name #20",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmfZShumSsgyHKr8JEf8hn3APaRp16BmRcZPL8xMT3mxFQ/20.png",
+  "edition": 20,
+  "date": 1652749626880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

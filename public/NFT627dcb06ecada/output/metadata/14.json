@@ -1,0 +1,26 @@
+{
+  "dna": "0300",
+  "name": "pinata 7 13052022#14",
+  "description": "",
+  "image": "ipfs://QmbXrShAxJpHMHuVUfoq7L679vXYBGQATWLfTq4bnmu7Qd/14.png",
+  "edition": 14,
+  "date": 1652411279078,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

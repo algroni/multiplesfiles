@@ -1,0 +1,26 @@
+{
+  "dna": "0200",
+  "name": "Collection june #8",
+  "description": "Collection June",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmYZcbMFnCo5J74BGkB27MqJCh2YZpgTrMRtTyE47WWiTv/8.png",
+  "edition": 8,
+  "date": 1654640059600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "2312",
+  "name": "pinata 7 13052022#7",
+  "description": "",
+  "image": "ipfs://QmbXrShAxJpHMHuVUfoq7L679vXYBGQATWLfTq4bnmu7Qd/7.png",
+  "edition": 7,
+  "date": 1652411228195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

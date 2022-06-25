@@ -1,0 +1,26 @@
+{
+  "dna": "2111",
+  "name": "Collection june #18",
+  "description": "Collection June",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmYZcbMFnCo5J74BGkB27MqJCh2YZpgTrMRtTyE47WWiTv/18.png",
+  "edition": 18,
+  "date": 1654640117604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

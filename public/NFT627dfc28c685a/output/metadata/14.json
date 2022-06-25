@@ -1,0 +1,26 @@
+{
+  "dna": "0301",
+  "name": "name4#14",
+  "description": "description 4",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmU5tNDV4u66zXhVwYLD7PH894jKDzCdHEiDvcxzLYzaXb/14.png",
+  "edition": 14,
+  "date": 1652423856232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "3021",
+  "name": "name#12",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ7jz2MaE4Vs71CNn7KGY46pcSJYmpD4SBNWf66opSDev/12.png",
+  "edition": 12,
+  "date": 1652420674373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "1011",
+  "name": "name #7",
+  "description": "desription",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ9UL8fauodAdVeRt24X6aHRVQB29afq7qH5Qai6HwTzM/7.png",
+  "edition": 7,
+  "date": 1652749862009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "LunaBluePin"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "1123",
+  "name": "name #14",
+  "description": "desription",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ9UL8fauodAdVeRt24X6aHRVQB29afq7qH5Qai6HwTzM/14.png",
+  "edition": 14,
+  "date": 1652749914436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "SmileYellow"
+    }
+  ]
+}

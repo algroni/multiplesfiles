@@ -1,0 +1,26 @@
+{
+  "dna": "0200",
+  "name": "name3#8",
+  "description": "description 3",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdbdmicuynBLnKQVcbme91LqLEQV2UQtGWgm7ALz5LB8y/8.png",
+  "edition": 8,
+  "date": 1652423308809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "0312",
+  "name": "Collection june #10",
+  "description": "Collection June",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmYZcbMFnCo5J74BGkB27MqJCh2YZpgTrMRtTyE47WWiTv/10.png",
+  "edition": 10,
+  "date": 1654640071046,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

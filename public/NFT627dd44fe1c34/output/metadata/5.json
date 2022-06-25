@@ -1,0 +1,26 @@
+{
+  "dna": "3001",
+  "name": "pinata 9 13052022#5",
+  "description": "",
+  "image": "ipfs://QmY43UA1ybAu7FqkQAQ2k4weAKxyHtG1AGBr1y29xVx9Ji/5.png",
+  "edition": 5,
+  "date": 1652413592406,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

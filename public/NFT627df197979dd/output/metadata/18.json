@@ -1,0 +1,26 @@
+{
+  "dna": "2210",
+  "name": "name2#18",
+  "description": "description 2",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVDwi84o7wWMtG4azGQRWds7cYBRHpKKf6tr1i7mShHNw/18.png",
+  "edition": 18,
+  "date": 1652421229398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

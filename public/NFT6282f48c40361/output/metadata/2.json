@@ -1,0 +1,26 @@
+{
+  "dna": "0031",
+  "name": "name #2",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmfZShumSsgyHKr8JEf8hn3APaRp16BmRcZPL8xMT3mxFQ/2.png",
+  "edition": 2,
+  "date": 1652749495639,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

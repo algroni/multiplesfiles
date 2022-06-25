@@ -1,0 +1,26 @@
+{
+  "dna": "3202",
+  "name": "name4#8",
+  "description": "description 4",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmU5tNDV4u66zXhVwYLD7PH894jKDzCdHEiDvcxzLYzaXb/8.png",
+  "edition": 8,
+  "date": 1652423814271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

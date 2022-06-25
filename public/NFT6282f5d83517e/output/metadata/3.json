@@ -1,0 +1,26 @@
+{
+  "dna": "0300",
+  "name": "name #3",
+  "description": "desription",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ9UL8fauodAdVeRt24X6aHRVQB29afq7qH5Qai6HwTzM/3.png",
+  "edition": 3,
+  "date": 1652749830423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "BluePin"
+    }
+  ]
+}

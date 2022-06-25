@@ -1,0 +1,26 @@
+{
+  "dna": "0000",
+  "name": "name#4",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ7jz2MaE4Vs71CNn7KGY46pcSJYmpD4SBNWf66opSDev/4.png",
+  "edition": 4,
+  "date": 1652420616023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dna": "1202",
+  "name": "pinata 8 13052022#4",
+  "description": "",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmeTJM1KEYkU61DqaqkR6yRVR31cgKnL6PbAtpSeKHCfX1/4.png",
+  "edition": 4,
+  "date": 1652412709352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

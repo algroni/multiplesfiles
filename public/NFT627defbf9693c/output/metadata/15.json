@@ -1,0 +1,26 @@
+{
+  "dna": "1102",
+  "name": "name#15",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmQ7jz2MaE4Vs71CNn7KGY46pcSJYmpD4SBNWf66opSDev/15.png",
+  "edition": 15,
+  "date": 1652420696545,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

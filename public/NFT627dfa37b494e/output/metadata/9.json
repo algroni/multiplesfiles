@@ -1,0 +1,26 @@
+{
+  "dna": "1022",
+  "name": "name3#9",
+  "description": "description 3",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdbdmicuynBLnKQVcbme91LqLEQV2UQtGWgm7ALz5LB8y/9.png",
+  "edition": 9,
+  "date": 1652423315712,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullRegular"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Helmet"
+    }
+  ]
+}

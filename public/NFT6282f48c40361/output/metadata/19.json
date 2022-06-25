@@ -1,0 +1,26 @@
+{
+  "dna": "2333",
+  "name": "name #19",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmfZShumSsgyHKr8JEf8hn3APaRp16BmRcZPL8xMT3mxFQ/19.png",
+  "edition": 19,
+  "date": 1652749620033,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

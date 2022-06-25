@@ -1,0 +1,26 @@
+{
+  "dna": "3230",
+  "name": "pinata 6 13052022#11",
+  "description": "",
+  "image": "ipfs://etdfgdfgfg/11.png",
+  "edition": 11,
+  "date": 1652409460460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullYellow"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

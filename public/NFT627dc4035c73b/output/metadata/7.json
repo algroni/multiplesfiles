@@ -1,0 +1,26 @@
+{
+  "dna": "3000",
+  "name": "pinata 6 13052022#7",
+  "description": "",
+  "image": "ipfs://etdfgdfgfg/7.png",
+  "edition": 7,
+  "date": 1652409431786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "GlassDome"
+    }
+  ]
+}

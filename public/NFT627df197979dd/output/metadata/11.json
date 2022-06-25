@@ -1,0 +1,26 @@
+{
+  "dna": "2113",
+  "name": "name2#11",
+  "description": "description 2",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmVDwi84o7wWMtG4azGQRWds7cYBRHpKKf6tr1i7mShHNw/11.png",
+  "edition": 11,
+  "date": 1652421179178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

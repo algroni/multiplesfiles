@@ -1,0 +1,2 @@
+Image	Name	Price	Description	Metadata	Rarity
+http://multiple-files.test/NFT62ad34161ccbd/output/images/1.png	name #1	 	Collections	https://piptle.mypinata.cloud/ipfs/QmVHYwpHpTwsqdNBvqQpVuLBQU86xqBSh6BesJFGjURF7Z/1.json	16

@@ -1,0 +1,26 @@
+{
+  "dna": "3203",
+  "name": "name #1",
+  "description": "description",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmdUDoWxUM3VMG94RZhwf6Rir5Txm8FLvkG5P65VAaq8C6/1.png",
+  "edition": 1,
+  "date": 1652751282165,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

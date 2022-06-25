@@ -1,0 +1,26 @@
+{
+  "dna": "3313",
+  "name": "pinata 6 13052022#18",
+  "description": "",
+  "image": "ipfs://etdfgdfgfg/18.png",
+  "edition": 18,
+  "date": 1652409513080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}

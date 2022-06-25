@@ -1,0 +1,26 @@
+{
+  "dna": "0201",
+  "name": "pinata 8 13052022#5",
+  "description": "",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmeTJM1KEYkU61DqaqkR6yRVR31cgKnL6PbAtpSeKHCfX1/5.png",
+  "edition": 5,
+  "date": 1652412716423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "Headset"
+    }
+  ]
+}

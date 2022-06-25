@@ -1,0 +1,26 @@
+{
+  "dna": "3213",
+  "name": "pinata 8 13052022#11",
+  "description": "",
+  "image": "https://piptle.mypinata.cloud/ipfs/QmeTJM1KEYkU61DqaqkR6yRVR31cgKnL6PbAtpSeKHCfX1/11.png",
+  "edition": 11,
+  "date": 1652412765951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SkullOrange"
+    },
+    {
+      "trait_type": "Facial Shape",
+      "value": "NFTHelmet"
+    }
+  ]
+}
