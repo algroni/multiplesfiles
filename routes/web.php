@@ -43,3 +43,21 @@ Route::post('preview', 'PreviewController@viewFiles')->name('preview.view');
 
 Route::get('parameters', 'ParameterController@uploadFiles')->name('parameters.store');
 Route::post('run', 'ParameterController@runFile')->name('parameters.run');
+
+Route::get('ebook', 'EbookController@uploadFiles')->name('ebook.page');
+
+Route::get('findartist', 'FindartistController@uploadFiles')->name('findartist.page');
+
+Route::get('gaming', 'GamingController@uploadFiles')->name('gaming.page');
+
+Route::get('marketing', 'MarketingController@uploadFiles')->name('marketing.page');
+
+Route::get('nftlisting', 'NftlistingController@uploadFiles')->name('nftlisting.page');
+
+Route::get('nftnews', 'NftnewsController@uploadFiles')->name('nftnews.page');
+
+Route::get('support', 'SupportController@uploadFiles')->name('support.page');
+
+Route::get('tdartist', 'TdartistController@uploadFiles')->name('tdartist.page');
+
+Route::get('videos', 'VideosController@uploadFiles')->name('videos.page');
